@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir Robert Cleark, in an appeal against Henry Serle, Esquire.</title>
+            <author>Clarke, Robert, Sir, fl. 1718.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18619</idno><idno type="EEBO-CITATION">99887529</idno>
+  <idno type="VID">190513</idno>
+  <idno type="EEBO-PROQUEST">2240899834</idno>
+  
+            <idno type="STC">Wing C999A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[45]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R227823</idno>
+            <idno type="PROQUEST">ocm99887529</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887529e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18619)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190513)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[114])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir Robert Cleark, in an appeal against Henry Serle, Esquire.</title>
+                  <author>Clarke, Robert, Sir, fl. 1718.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land tenure --  England --  Early works to 1800.</term>
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:190513:1"/>
+            <head>The CASE of Sir Robert Cleark, In an Appeal against Henry Serle, Esquire.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR <hi>John Berkenhead</hi> died seized in Fee of four six parts of Little <hi>Lincolns-Inn-Fields,</hi> and possessed of another sixth part, for the remainder of <hi>Nine<g ref="char:EOLhyphen"/>ty-nine</hi> Years (The other sixth part was bought of Sir <hi>William Hooker</hi>) and of a personal Estate in Books and other Goods. And by his Will in <hi>December</hi> 1679. gave all his Lands to <hi>Rupert</hi> and <hi>Randolph Berkenhead,</hi> to perform his Will; which if they did not in six Months, he then gave his Estate to his Executors, Sir <hi>Richard Mason</hi> and Serjeant <hi>Brampston,</hi> for the uses aforesaid.</p>
+            <p>Dr. <hi>Birkhead,</hi> a Creditor of Sir <hi>John Berkenheads,</hi> being acquainted with the Plaintiff, Sir <hi>Robert Cleark,</hi> told him, That he believed there might be a very advantageous bargain bought of the said Fields; and Sir <hi>Robert Cleark</hi> being next Chamber-Fellow in <hi>Lincolns-Inn</hi> to Mr. <hi>Serle,</hi> and well acquainted, told him of the said bargain; who earnestly desired, that he might be admitted a sharer with them in the said Purchase; to which Sir <hi>Robert</hi> (believing him to be an honest man) consented, and so did the Doctor upon Sir <hi>Robert's</hi> Request.</p>
+            <p>They proceeded in a joynt design of Purchasing. And the 7th. of <hi>January</hi> 1679. they made an Agreement in Writing with <hi>Rupert</hi> and <hi>Randolph Berkenhead,</hi> for Sir <hi>John's</hi> Real and Personal Estate, which was to this Effect: That they should satisfie Sir <hi>John's</hi> Debts and Legacies, according to his Will, and to pay 642 <hi>l.</hi> to <hi>Rupert,</hi> and 600 <hi>l.</hi> to <hi>Randolph Berkenhead.</hi>
+            </p>
+            <p>The 13th. <hi>January</hi> 1679. <hi>Rupert</hi> and <hi>Randolph,</hi> in consideration of 1200 <hi>l.</hi> Execute a Conveyance of the Fields to Mr. <hi>Serle,</hi> and his Heirs; for which, Sir <hi>Robert Cleark</hi> became joyntly bound with Mr. <hi>Serle,</hi> to pay each of them 600<hi>l.</hi> a piece at the end of three Months, with Interest; and of the remaining 42 <hi>l.</hi> to <hi>Rupert,</hi> Sir <hi>Robert</hi> paid down <hi>Eighteen</hi> Guinues, and Mr. <hi>Serle</hi> the rest.</p>
+            <p>The 16th. <hi>January</hi> 1679. Mr. <hi>Serle</hi> Executes a Conveyance under his Hand and Seal, to Sir <hi>Robert Cleark,</hi> reciting the Deed before made to him of the said Fields; and declaring, That it was in Trust for Sir <hi>Robert Cleark</hi> and his Heirs, as to one third part thereof, he paying a third part of the purchase Money; and of all the Debts, charges and incumbrances thereon. And at the same time, Executes the like Conveyance to Dr. <hi>Birkhead,</hi> for another third part; upon the Sealing of which, the Doctor gave up a Bond of 500 <hi>l.</hi> (being a Debt of Sir <hi>John Berkenhead</hi>'s) to be Cancelled, and entred into another of 1000 <hi>l.</hi> to Mr. <hi>Serle,</hi> to pay the remainder of his third share of the Purchase Money.</p>
+            <p>
+               <hi>February,</hi> 21th. 1679. For a further Confirmation of the former Agreement made with <hi>Rupert</hi> and <hi>Randolph Berkenhead;</hi> The two Executors, Sir <hi>Richard Mason</hi> and Serjeant na <hi>Bmpston,</hi> make a Bill of Sale of all the personal Estate to Sir <hi>Robert Cleark</hi> and Mr. <hi>Serle;</hi> who thereupon became joyntly bound to Mr. <hi>Bully,</hi> for the payment of 200 <hi>l.</hi> ar to Sir <hi>Henry Bernard</hi> for 250 <hi>l.</hi> to pay the Debts of the Will.</p>
+            <p>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dhe 6th. of <hi>March,</hi> 1679. Dr. <hi>Birkhead</hi> delivers up his Deed of Trust for the Equall benefit of Sir <hi>Robert</hi> and Mr. <hi>Serle;</hi> and thereupon they became joyntly bound to pay him 500 <hi>l.</hi> with Interest (which Sir <hi>Robert</hi> has Since paid.)</p>
+            <p>The 13th. of <hi>March</hi> 1679. for a further Coroboration of their Title to the Fields, The two Executors, and <hi>Rupert</hi> and <hi>Randolph Berkenhead,</hi> all joyn in a Conveyance of the Fields to Mr. <hi>Serle</hi> and his Heirs. (The Estate being Conveyed to him at first.) And at this time, Mr. <hi>Serle</hi> (it seems) designing some Advantage thereby, told Sir <hi>Robert,</hi> That he need not joyn in the Bonds to the <hi>Berkenheads</hi> as before; for that he was bound for Money enough already, till the Estate in Law was conveyed to him; and that he would perswade the <hi>Berkenheads</hi> to take his single Bond, which they did accordingly; and the former Bonds were delivered up.</p>
+            <p>Sir <hi>Robert Cleark</hi> about three Years after sells his Moyety of the said Fields to Dr. <hi>Barbon</hi> for 3000<hi>ll.</hi> of which 2000 <hi>l.</hi> was paid down, the other 1000 <hi>ll.</hi> was to be paid upon Sir <hi>Roberts</hi> Executing a legal Conveyance to the Doctor, his Heirs or Assignes.</p>
+            <p>Sir <hi>Robert,</hi> that he might perfect his Agreement with the Doctor, desires Mr. <hi>Serle</hi> to Convey to him the Moyety of the Fields: Which he refusing to do, he brought his Bill before the Right Honourable the <hi>Lord Keeper;</hi> who, upon hearing the Cause, thought fit to decree, That he should have a Moyety of the Personal Estate; but did not decree him his Share of the Fields; for the reason (as he humbly conceives) that he believed, that Sir <hi>Robert</hi> waved his Interest, and promised to deliver up his Deed; and the chief proof of this Evidence, is from what <hi>Samuel Ogle,</hi> the Servant of Mr. <hi>Serle,</hi> and <hi>Randolph Berkenhead</hi> Swears; which are to this Effect:</p>
+            <q>
+               <l>
+                  <hi>Ogle</hi> Swears, <hi>That the Declaration of Trust, which he drew by the Order of his Master, Mr.</hi> Serle, <hi>was delivered upon this Condition; That Sir</hi> Robert <hi>should pay all his Share of his Purchase-Money, when the Executors should joyn in a Conveyance of the said Fields: And if he did not, he was to deliver it up; and it was to be voyd.</hi>
+               </l>
+               <l>
+                  <hi>That he gave Sir</hi> Robert Cleark <hi>Notice sometime before the Executors seal'd the Conveyance; and that Sir</hi> Robert Cleark <hi>was present at the Executing of the Conveyances, and at that time he did not pay his Purchase-Money; but some time after waved his Interest in the Fields, and promised to deliver up the Deed of Trust.</hi>
+               </l>
+            </q>
+            <p>All which Sir <hi>Robert Cleark</hi> hath, in Two Answers, upon his Oath, denyed; and how improbable it is to be true, which he swears, will appear by these Circumstances:</p>
+            <p n="1">I. There could be then no such Condition as <hi>Ogle</hi> swears: That is, <hi>That Sir</hi> Robert <hi>should pay his Money when the Executors should joyn:</hi> For they had not then Agreed with the Executors; and therefore could not tell, whether they would joyn, or no. They were then no ways obliged to do it; and it was not necessary, the Title being Good without.</p>
+            <p n="2">II. It is not probable, there was such a Condition annexed; for <hi>Ogle</hi> swears it, that drew the Deed; and had it been true, might as well have put it into the Deed. And Mr. <hi>Serle</hi> is a Counsellor, that directed the Deed, and would not have suffered his Servant to omit such a Condition, because he knew it would not then be good in Law.</p>
+            <p n="3">III. There was no Occasion for such a Condition; for Sir <hi>Robert Cleark</hi> had, Three Dayes before the Deed was Sealed, paid his Proportion in Money, and by being bound with Mr. <hi>Serle</hi> to the Two <hi>Berkenheads;</hi> which were not due in a Month after the Time the Conveyances were sealed by the Executors;</p>
+            <p>Besides, it is not probable to be true, what <hi>Ogle</hi> swears, <hi>That Sir</hi> Robert, <hi>on the</hi> 13th. <hi>of</hi> March, 1679. <hi>did not pay his Purchase-Money; and therefore, afterwards, wa<g ref="char:EOLhyphen"/>ved his Interest, and promised to deliver up his Deed of Trust.</hi>
+            </p>
+            <q>
+               <p>Nor what <hi>Randolph</hi> Swears; <hi>That, at the time of the Executors joyning in the Conveyances, he took Sir</hi> Robert <hi>aside, and asked him, Why he was not Bound with Mr.</hi> Serle? <hi>And he told him, It was because he was afraid he should not be able to raise his share of the Purchase-Money.</hi>
+               </p>
+            </q>
+            <p n="1">I. For the Money was only then paid by Bond; and Sir <hi>Robert</hi> might have been better able to have paid his share of the Bonds, when Due, as well as those other, where<g ref="char:EOLhyphen"/>in he was before bound, by having a share in the Field, which were of very great Value; then he could be to pay the other Bonds without a Share.</p>
+            <p n="2">II. For on the Sixth of <hi>March,</hi> (being Seven Days before) he was bound to Dr. <hi>Birkhead,</hi> to pay Five hundred Pounds for his Third Share of the Lands; and in that short time, there doth not appear any Change in the Value of the Estate; and therefore no reason (on a sudden) to change his Mind; for it was before any Op<g ref="char:EOLhyphen"/>position to the Building from <hi>Lincolns-Inn:</hi> And about that time, they were offered, by Dr. <hi>Barbon,</hi> One thousand Pound profit for that Third Share: And before that, they valued the Fields at Twenty thousand Pounds, as appears by Proof.</p>
+            <p n="3">III. There is not the least Proof, That Mr. <hi>Serle</hi> did give, or offer'd him any Consideration, for the waving his Interest, and promising to give up his Deed of Trust.</p>
+            <p n="4">IV. Nor any Proof, That he was to be saved harmless, and Indemnified from those Bonds he had entred into, to Dr. <hi>Birkhead,</hi> Mr. <hi>Buily,</hi> and Sir <hi>Henry Bernard.</hi>
+            </p>
+            <p n="5">V. There is Proof, That after the Thirteenth of <hi>March,</hi> and Time of the pretended Waver, Sir <hi>Robert</hi> concern'd himself in getting a Patent from the King, to build the Fields; and his Name is in the Petition and Bill for the Patent.</p>
+            <p n="6">VI. There is Proof, That Sir <hi>Robert</hi> Agreed after the Thirteenth of <hi>March,</hi> 1679. to buy an House in <hi>Chancery-Lane,</hi> to make a better Way into the said Fields; and concerned himself in the Modal for Building, and staking out the Fields.</p>
+            <p n="7">VII. Besides, after the Thirteenth of <hi>March,</hi> Sir <hi>Robert,</hi> in an Answer to Mr. <hi>Cary</hi>'s Bill, Exhibited for his Right of some Privileges in the Fields, swears, He had an Interest with Mr. <hi>Serle</hi> in the said Fields: Mr. <hi>Serle,</hi> in his Answer to the said Bill, does not deny it; and they joyntly maintain'd the Suit: Whereas, had Sir <hi>Robert</hi> then waved his Interest, he might and would certainly, in his Answer, have disclaimed <hi>All Interest in the Fields,</hi> and saved himself the Charge and Trouble of the Suit.</p>
+            <p>All which makes it probable, that what <hi>Ogle,</hi> and <hi>Rupert Berkenhead</hi> have sworn, is not true, but on the contrary: The Reason why Sir <hi>Robert</hi> did not joyn in the Bonds, was, by the Artifice of Mr. <hi>Serle,</hi> telling him, there was was no occasion; For that <hi>Berkenhead</hi> were content to take his single Bond.</p>
+            <p>But if it had been true, it is but a Discourse, and ought not to set aside a Deed under Hand and Seal, since the Act made against Frauds and Perjuries; which has provided, That no Deed nor Declaration of Trust, shall be Assigned, made Void, or Altered, but by Writing.</p>
+            <p n="1">I. For this Decree makes a Breach upon an Act of Parliament, and will leave a Gap open hereafter for crafty and designing Men, who know it is easier to get Words and Discourse sworn, than to Alter what is written; and therefore, the Law was made to defend Men's Estates against such intreagues; and how dangerous may the Consequence be, is obvious; since it is a time, when Perjuries, to the Amazement of Man-kind, have been practiced.</p>
+            <p n="2">II. If this Decree should not be repealed, it will be the occasion of perpetual Suits in <hi>Chancery:</hi> For <hi>Cleark</hi>'s Case will be cited for a Precedent, by all those, whose In<g ref="char:EOLhyphen"/>terest it is to make use of a Discourse, to avoid a Deed: And if it should be Confirmed by a Decree of the <hi>House of Lords,</hi> it will have the greater Authority: Now there will be an <hi>Act of Parliament</hi> against Frauds and Perjuries, for those that are on the contrary side; so that it will remain solely in the Breast of the <hi>Court of Equity,</hi> which side to take, which cannot be known, but by a chargable Suit.</p>
+            <p n="3">III. If there should be such a Power left in a Court of Equity, to allow a Discourse, to alter or make void a Deed, then no Man can purchase with any Safety: And that Act which was made for the Benefit and Security of the Purchaser, will become his greatest prejudice; for before this Law, the Purchaser had a Remedy upon his Covenant against Incumbrances, if by any Discourse or Evidence of that sort, his Title was prejudiced. But now, (by this Law) Discourse is no Incumbrance; so that, the Purchaser may lose his Estate, (as will be the Case of Dr. <hi>Barbon,</hi> if he be not relieved) and he has no Remedy against the Person that Sells.</p>
+            <pb facs="tcp:190513:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
